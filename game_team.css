@@ -1,0 +1,59 @@
+.game_team_descript {
+    color: darkolivegreen;
+}
+
+.game_team_btn {
+    border-radius: 5px;
+    margin-top: 7px;
+    margin-bottom: 5px;
+    padding: 10px;
+    background-color: blanchedalmond;
+    font-weight: bold;
+    border-width: 0px;
+}
+
+.game_team_btn:hover {
+    background-color: darksalmon;
+}
+
+.game_team_in_name, .game_team_in_score, #game_team_people {
+    padding: 5px;
+    margin: 5px 5px 5px 5px;
+}
+
+#game_team_out_wrap {
+    margin-left: 10px;
+    text-align: center;
+    width: 50%;
+}
+
+#game_team_copy_wrap {
+    text-align: center;
+    width: 50%;
+}
+
+.game_team_table {
+    font-size: large;
+    width: 100%;
+    border-collapse: collapse;
+}
+
+.game_team_th {
+    width: 50%;
+    padding: 10px;
+    border-bottom: 2px solid #444444;
+}
+
+.game_team_td_name {
+    padding: 10px;
+    text-align: left;
+}
+
+.game_team_td_score {
+    padding: 10px;
+    text-align: right;
+}
+
+.game_team_middle_line {
+    border-right: 2px solid #444444;
+}
